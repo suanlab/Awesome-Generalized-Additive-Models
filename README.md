@@ -66,6 +66,8 @@ The **Explainable Boosting Machine (EBM)** is a GA²M (GAM with pairwise interac
 |------|-------|---------|-------|-------|
 | 2021 | **Neural Additive Models: Interpretable Machine Learning with Neural Nets** | Rishabh Agarwal, Levi Melnick, Nicholas Frosst, Xuezhou Zhang, Ben Lengerich, Rich Caruana, Geoffrey E. Hinton | NeurIPS 2021 | [arXiv:2004.13912](https://arxiv.org/abs/2004.13912) · [GitHub](https://github.com/AmrMKayid/nam) |
 
+> For a deeper dive into NAM and its variants, see [Awesome Neural Additive Models](https://github.com/suanlab/Awesome-Neural-Additive-Models).
+
 ### NODE-GAM
 
 **NODE-GAM** combines Neural Oblivious Decision Ensembles (NODE) with the GAM framework for better tabular data performance.
